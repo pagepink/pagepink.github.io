@@ -1,4 +1,18 @@
 body{
 	color: #555;
-    font: 16px/1.4em 'latolight', sans-serif;
+	font: 16px/1.4em 'Lato', sans-serif;
+}
+
+.absolute-center {
+	margin: auto;
+	position: absolute;
+	top: 0; left: 0; bottom: 0; right: 0;
+}
+
+.logo {
+	width: 100%
+}
+
+.bye {
+	text-align: center;
 }
