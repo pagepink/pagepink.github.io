@@ -1,0 +1,21 @@
+{
+  "name": "pagepink",
+  "version": "1.0.0",
+  "description": "landing page for pagepink.com",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.3",
+    "jquery": "^1.12.4",
+    "popper.js": "^1.13.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.5",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"No Test\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
